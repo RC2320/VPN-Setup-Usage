@@ -1,6 +1,6 @@
 # VPN-Setup-Usage
 <p align="center">
-<https://i.imgur.com/qtrcixw.png>
+  <img src="https://i.imgur.com/qtrcixw.png)" alt="VPN"/>
 </p>
 
 <h1>Virtual Private Network Setup and Usage</h1>
@@ -17,22 +17,22 @@ In this tutorial, we set up a VPN and observe how it is used. <br />
 
 - Windows 10 (21H2)
 
-<h2>High-Level Steps</h2>
+<h2>Steps</h2>
 
 - Create a Virtual Machine (Windows 10 OS) within Azure in a different location
-- Remote desktup into the VM
+- Remote desktop connect into the VM
 - Signup/download Proton VPN
 - Login to VPN on VM and choose different location on VPN server
-- Observe the changes of the location with https://whatsmyipaddress.com/
+- Observe the changes of the location with https://whatismyipaddress.com/
 
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YhhDCf6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we created a Virtual Machine in Azure with the region located in Korea Central. When creating a virtual machine in Azure, the virtual network and Network interface get created at the same time.
 </p>
 <br />
 

@@ -1,6 +1,6 @@
 # VPN-Setup-Usage
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<C:\Users\Ashley\Desktop\VPN.png>
 </p>
 
 <h1>Virtual Private Network Setup and Usage</h1>

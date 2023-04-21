@@ -1,6 +1,6 @@
 # VPN-Setup-Usage
 <p align="center">
-<C:\Users\Ashley\Desktop\VPN.png>
+<https://i.imgur.com/qtrcixw.png>
 </p>
 
 <h1>Virtual Private Network Setup and Usage</h1>

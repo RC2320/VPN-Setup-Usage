@@ -4,7 +4,7 @@
 </p>
 
 <h1>Virtual Private Network Setup and Usage</h1>
-In this tutorial, we set up a VPN and observe how it is used. <br />
+In this illustration, I will set up a VPN on A virtual machine and observe how it is used. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -28,28 +28,33 @@ In this tutorial, we set up a VPN and observe how it is used. <br />
 
 <h2>Actions and Observations</h2>
 
+
+<p>
+First, I created a Virtual Machine in Azure with the region located in Korea Central. When creating a virtual machine in Azure, the virtual network and Network interface get created at the same time.
+</p>
 <p>
 <img src="https://i.imgur.com/YhhDCf6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Here we created a Virtual Machine in Azure with the region located in Korea Central. When creating a virtual machine in Azure, the virtual network and Network interface get created at the same time.
-</p>
+
 <br />
 
+<p>
+After creating the virtual machine, I created an account on ProtonVPN, remoted into the VM and installed the app on the VM in Korea. Here I then set the VPN server in Japan. 
+</p>
 <p>
 <img src="https://i.imgur.com/x0toayU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-After creating the virtual machine, we created an account on ProtonVPN, remoted into the VM and installed the app on the VM in Korea. Here we set the VPN server in Japan. 
-</p>
+
 <br />
 
+
+<p>
+Lastly, I observed the changes that were made by checking https://whatismyipaddress.com/ as well as other web pages. Now, if exploring webpages, they are now set in Japan.
+</p>
 <p>
 <img src="https://i.imgur.com/d2pjEpl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/Y2xqD9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/QzTvhhE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lastly we observed the changes that were made by checking https://whatismyipaddress.com/ as well as other web pages.
-</p>
+
 <br />
